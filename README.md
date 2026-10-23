@@ -6,6 +6,11 @@ I enjoy building interactive web applications and AI-powered projects that solve
 
 ## 🚀 Featured Projects
 
+# 🌉 Knowledge Bridge AI
+**Live Demo:** https://knowledge-bridge-ai-nm2nca7n5ml9k2rab7vcja.streamlit.app/
+
+An enterprise-grade Retrieval-Augmented Generation (RAG) system designed to query unstructured company documentation with built-in hallucination guardrails. 
+
 ### 🛡️ FraudShield — Fraud Detection Dashboard
 An interactive fraud detection application using XGBoost, Streamlit, Plotly, and SQLite.
 
